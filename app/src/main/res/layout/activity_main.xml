@@ -145,6 +145,7 @@
         app:layout_constraintStart_toEndOf="@+id/textCiencia"
         app:layout_constraintTop_toTopOf="@+id/imageNome" />
 
+
     <TextView
         android:id="@+id/textLancamento"
         android:layout_width="wrap_content"
@@ -197,5 +198,45 @@
         app:layout_constraintStart_toStartOf="@+id/guideline4"
         app:layout_constraintTop_toBottomOf="@+id/textLancamento"
         app:srcCompat="@drawable/f4" />
+
+    <Button
+        android:id="@+id/buttonDetalhes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/add_4"
+        android:padding="0dp"
+        android:text="Detalhes"
+        android:textColor="@color/branco"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toTopOf="@+id/textLancamento"
+        app:layout_constraintEnd_toStartOf="@+id/guideline5"
+        app:layout_constraintTop_toBottomOf="@+id/textBlackM" />
+
+    <Button
+        android:id="@+id/buttonLista"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/add_2"
+        android:padding="0dp"
+        android:text="Minha Lista"
+        android:textColor="@color/branco"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toTopOf="@+id/textLancamento"
+        app:layout_constraintStart_toStartOf="@+id/guideline4"
+        app:layout_constraintTop_toBottomOf="@+id/textCiencia" />
+
+    <Button
+        android:id="@+id/buttonAssistir"
+        android:layout_width="125dp"
+        android:layout_height="51dp"
+        android:backgroundTint="@android:color/transparent"
+        android:drawableLeft="@drawable/add_3"
+        android:text="Assistir"
+        android:textSize="14dp"
+        android:padding="15dp"
+        android:textColor="@color/branco"
+        tools:layout_editor_absoluteX="138dp"
+        tools:layout_editor_absoluteY="384dp" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
