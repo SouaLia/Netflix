@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Constrain2</string>
+    <string name="t_serie">Série</string>
+    <string name="lista">Minha Lista</string>
+    <string name="filmes">Filmes</string>
+    <string name="ciencia">Ciência</string>
+    <string name="BGM">Black Girl Magic</string>
+    <string name="BFR">Baseado em fatos reais</string>
+    <string name="Lancamento">Lançamento</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="assistir">Assistir</string>
+    <string name="aluna">Aluna: Ceclia Tavares Barreto</string>
 </resources>

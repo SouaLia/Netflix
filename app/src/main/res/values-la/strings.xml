@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Constrain2</string>
+    <string name="t_serie">Series</string>
+    <string name="lista">Index Meus</string>
+    <string name="filmes">Pellicula</string>
+    <string name="ciencia">Scientia</string>
+    <string name="BGM">Magia Puellae Nigrae</string>
+    <string name="BFR">Ex Hisoria Vera</string>
+    <string name="Lancamento">Emissio</string>
+    <string name="detalhes">Singula</string>
+    <string name="minha_lista">Index Meus</string>
+    <string name="assistir">Vide</string>
+    <string name="aluna">Discipula: Cecilia Tavares Barreto</string>
+</resources>

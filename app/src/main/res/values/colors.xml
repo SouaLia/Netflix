@@ -9,4 +9,5 @@
     <color name="vermelho_segundo">#f70000</color>
     <color name="fundo">#171417</color>
     <color name="menu_navegacao">@color/branco</color>
+    <color name="fonte">#FFFFFF</color>
 </resources>

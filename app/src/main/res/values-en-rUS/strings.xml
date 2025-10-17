@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Constrain2</string>
+    <string name="t_serie">Serie</string>
+    <string name="lista">My List</string>
+    <string name="filmes">Movies</string>
+    <string name="ciencia">Science</string>
+    <string name="BGM">Black Girl Magic</string>
+    <string name="BFR">"Based on real facts "</string>
+    <string name="Lancamento">Releases</string>
+    <string name="detalhes">Details</string>
+    <string name="minha_lista">My List</string>
+    <string name="assistir">Watch</string>
+    <string name="aluna">Student: Cecilia Tavares Barreto</string>
+</resources>
